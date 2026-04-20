@@ -59,6 +59,8 @@ This project is a React application that displays an interactive recipe gallery.
 
 ## Video Demonstration
 
+https://youtu.be/BbFgnCvC8GM
+
 ## Project Structure
 ```
 src/
